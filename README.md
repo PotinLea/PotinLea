@@ -15,8 +15,8 @@
 ### 📂 Projets  
 
 Les dépôts présents ici regroupent principalement des projets scolaires et de recherche appliquée :  
-- 👄 **Reconnaissance labiale** — Développement d’un outil en temps réel combinant *LipNet*, *RealTimeSTT* et *WhisperAI* pour retranscrire simultanément flux vidéo et audio, facilitant la communication pour les personnes malentendantes. *(Janvier 2025)*  
-- 🏭 **AI4Industry** — Mise en œuvre de modèles de *machine learning* (CNN, Auto-encodeurs) pour l’identification et la localisation de défauts industriels d'assiete en porcelaine à partir d’images. *(Janvier 2025)*  
-- 🗑️ **Reconnaissance de déchets** — Conception d’un pipeline complet de détection basé sur *YOLOv8*, avec préparation du dataset, filtrage d’images et conversion COCO → YOLO. *(Mars 2025)*  
+- 👄 **Reconnaissance labiale** - Développement d’un outil en temps réel combinant *LipNet*, *RealTimeSTT* et *WhisperAI* pour retranscrire simultanément flux vidéo et audio, facilitant la communication pour les personnes malentendantes. *(Janvier 2025)*  
+- 🏭 **AI4Industry** - Mise en œuvre de modèles de *machine learning* (CNN, Auto-encodeurs) pour l’identification et la localisation de défauts industriels d'assiete en porcelaine à partir d’images. *(Janvier 2025)*  
+- 🗑️ **Reconnaissance de déchets** - Conception d’un pipeline complet de détection basé sur *YOLOv8*, avec préparation du dataset, filtrage d’images et conversion COCO → YOLO. *(Mars 2025)*  
 
 ---
